@@ -120,7 +120,7 @@ a:hover { color: var(--accent); }
 
 .status {
   display: inline-block;
-  padding: 4px 12px;
+  padding: 5px 12px;
   border: 1px solid var(--rule);
   border-radius: 99px;
   background: var(--surface);
@@ -153,7 +153,7 @@ h1 em {
   text-underline-offset: 7px;
 }
 
-.byline { margin: 0; font-size: 19px; }
+.byline { margin: 0; font-size: 36px; }
 .affiliation { margin: 6px 0 0; color: var(--muted); font: 13px var(--mono); }
 
 /* Two-column rows: label on the left, content on the right */
